@@ -11,7 +11,7 @@ function App() {
      
      <hr/>
 
-     {/* <Dinner dishName="Biryani" sweetDish="Ras Malai"/> */}
+     <Dinner dishName="Biryani" sweetDish="Ras Malai"/>
      </div>
   );
 }
